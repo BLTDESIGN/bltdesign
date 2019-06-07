@@ -1,10 +1,6 @@
 Options -Indexes
 ErrorDocument 404 https://bltdesign.club/
 Options +SymLinksIfOwnerMatch
-RewriteEngine On
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule . /index.html [L]
 
 RewriteEngine On
 RewriteCond %{HTTP_HOST} bltdesign\.club [NC]
