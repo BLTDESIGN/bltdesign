@@ -1,6 +1,6 @@
 {
   "main.css": "/static/css/main.c263be8d.chunk.css",
-  "main.js": "/static/js/main.dce51e27.chunk.js",
+  "main.js": "/static/js/main.7fa71b1e.chunk.js",
   "static/js/1.3a2c3cf8.chunk.js": "/static/js/1.3a2c3cf8.chunk.js",
   "runtime~main.js": "/static/js/runtime~main.229c360f.js",
   "static/media/Dan Beltramo Resume 2018.pdf": "/static/media/Dan Beltramo Resume 2018.73079dea.pdf",
@@ -87,7 +87,7 @@
   "static/media/bb_7.jpg": "/static/media/bb_7.823ed258.jpg",
   "static/media/crypto---1.jpg": "/static/media/crypto---1.4db31efe.jpg",
   "static/media/crypto---2.jpg": "/static/media/crypto---2.58ccc0a9.jpg",
-  "static/media/crypto---3.jpg": "/static/media/crypto---3.db5249db.jpg",
+  "static/media/crypto---3.jpg": "/static/media/crypto---3.5214902c.jpg",
   "static/media/crypto---7.jpg": "/static/media/crypto---7.7c80dae0.jpg",
   "static/media/delta---1.jpg": "/static/media/delta---1.8e911528.jpg",
   "static/media/delta---2.jpg": "/static/media/delta---2.a9e89324.jpg",
@@ -177,6 +177,6 @@
   "static/media/sitemap_sightc.png": "/static/media/sitemap_sightc.1756ee3c.png",
   "static/media/styleguide_optimizer.jpg": "/static/media/styleguide_optimizer.7515732e.jpg",
   "index.html": "/index.html",
-  "precache-manifest.2b008fc148bc27a0834c52a9a5073286.js": "/precache-manifest.2b008fc148bc27a0834c52a9a5073286.js",
+  "precache-manifest.bbc99c4124b4bd7047f87e672b6bf964.js": "/precache-manifest.bbc99c4124b4bd7047f87e672b6bf964.js",
   "service-worker.js": "/service-worker.js"
 }
