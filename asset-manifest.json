@@ -1,7 +1,7 @@
 {
-  "main.css": "/static/css/main.ea349128.chunk.css",
-  "main.js": "/static/js/main.d76747e9.chunk.js",
-  "static/js/1.7be81a61.chunk.js": "/static/js/1.7be81a61.chunk.js",
+  "main.css": "/static/css/main.ce1a3f71.chunk.css",
+  "main.js": "/static/js/main.b426993a.chunk.js",
+  "static/js/1.650e662c.chunk.js": "/static/js/1.650e662c.chunk.js",
   "runtime~main.js": "/static/js/runtime~main.229c360f.js",
   "static/media/Dan Beltramo Resume 2018.pdf": "/static/media/Dan Beltramo Resume 2018.25345740.pdf",
   "static/media/dan.svg": "/static/media/dan.7700eb0a.svg",
@@ -18,6 +18,7 @@
   "static/media/recog.svg": "/static/media/recog.b5ad2da8.svg",
   "static/media/sig.svg": "/static/media/sig.64e6a2b8.svg",
   "static/media/vis-heir.svg": "/static/media/vis-heir.19d56ac7.svg",
+  "static/media/down.svg": "/static/media/down.f26599ee.svg",
   "static/media/menu.svg": "/static/media/menu.de66733e.svg",
   "static/media/Thumbs.db": "/static/media/Thumbs.f5163ef3.db",
   "static/media/dan-grey.svg": "/static/media/dan-grey.50a20454.svg",
@@ -188,6 +189,6 @@
   "static/media/styleguide_lrt.png": "/static/media/styleguide_lrt.d9175158.png",
   "static/media/styleguide_optimizer.jpg": "/static/media/styleguide_optimizer.9525a615.jpg",
   "index.html": "/index.html",
-  "precache-manifest.01f868aa0af29e1d732a70296946de4b.js": "/precache-manifest.01f868aa0af29e1d732a70296946de4b.js",
+  "precache-manifest.0e7f3d4ee8c39f90ceff5878131713cb.js": "/precache-manifest.0e7f3d4ee8c39f90ceff5878131713cb.js",
   "service-worker.js": "/service-worker.js"
 }
