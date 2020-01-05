@@ -1,6 +1,6 @@
 {
   "main.css": "/static/css/main.3b6d83c4.chunk.css",
-  "main.js": "/static/js/main.806cdb90.chunk.js",
+  "main.js": "/static/js/main.0640e5e6.chunk.js",
   "static/js/1.da116c16.chunk.js": "/static/js/1.da116c16.chunk.js",
   "runtime~main.js": "/static/js/runtime~main.229c360f.js",
   "static/media/Dan Beltramo Resume 2018.pdf": "/static/media/Dan Beltramo Resume 2018.25345740.pdf",
@@ -112,7 +112,7 @@
   "static/media/features_optimizer.jpg": "/static/media/features_optimizer.405cde65.jpg",
   "static/media/features_shop.jpg": "/static/media/features_shop.41c32906.jpg",
   "static/media/features_sightc.jpg": "/static/media/features_sightc.d1f26ea4.jpg",
-  "static/media/felt---1.jpg": "/static/media/felt---1.e80d4df0.jpg",
+  "static/media/felt---1.jpg": "/static/media/felt---1.85fa9498.jpg",
   "static/media/felt---2.jpg": "/static/media/felt---2.464bc219.jpg",
   "static/media/felt---3.jpg": "/static/media/felt---3.e80d4df0.jpg",
   "static/media/felt---4.jpg": "/static/media/felt---4.894c0c35.jpg",
@@ -133,7 +133,7 @@
   "static/media/lrt---1a.jpg": "/static/media/lrt---1a.f20b01a3.jpg",
   "static/media/lrt---1b.jpg": "/static/media/lrt---1b.ff885498.jpg",
   "static/media/lrt---2a.jpg": "/static/media/lrt---2a.6e767ab0.jpg",
-  "static/media/lrt---2b.jpg": "/static/media/lrt---2b.7c4ea3c9.jpg",
+  "static/media/lrt---2b.jpg": "/static/media/lrt---2b.c98b1bf5.jpg",
   "static/media/lrt---3a.jpg": "/static/media/lrt---3a.e8f680dc.jpg",
   "static/media/lrt---3b.jpg": "/static/media/lrt---3b.2480294a.jpg",
   "static/media/lrt---4a.jpg": "/static/media/lrt---4a.c3945f2c.jpg",
@@ -190,6 +190,6 @@
   "static/media/styleguide_lrt.png": "/static/media/styleguide_lrt.d9175158.png",
   "static/media/styleguide_optimizer.jpg": "/static/media/styleguide_optimizer.9525a615.jpg",
   "index.html": "/index.html",
-  "precache-manifest.c7a197d67f4ed97695e3f3a4f1b10638.js": "/precache-manifest.c7a197d67f4ed97695e3f3a4f1b10638.js",
+  "precache-manifest.4c00e3257917a2cad04d3a3abf84d2f3.js": "/precache-manifest.4c00e3257917a2cad04d3a3abf84d2f3.js",
   "service-worker.js": "/service-worker.js"
 }
