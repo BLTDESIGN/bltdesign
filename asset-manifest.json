@@ -1,7 +1,7 @@
 {
-  "main.css": "/static/css/main.c369ebcd.chunk.css",
-  "main.js": "/static/js/main.7b151dae.chunk.js",
-  "static/js/1.1f859fd7.chunk.js": "/static/js/1.1f859fd7.chunk.js",
+  "main.css": "/static/css/main.5b707d3d.chunk.css",
+  "main.js": "/static/js/main.c56bb5f6.chunk.js",
+  "static/js/1.af340cc7.chunk.js": "/static/js/1.af340cc7.chunk.js",
   "runtime~main.js": "/static/js/runtime~main.229c360f.js",
   "static/media/Dan Beltramo Resume 2018.pdf": "/static/media/Dan Beltramo Resume 2018.25345740.pdf",
   "static/media/dan.svg": "/static/media/dan.1ab56a49.svg",
@@ -76,6 +76,8 @@
   "static/media/crypto---2.jpg": "/static/media/crypto---2.58ccc0a9.jpg",
   "static/media/crypto---3.jpg": "/static/media/crypto---3.5214902c.jpg",
   "static/media/crypto---7.jpg": "/static/media/crypto---7.4da39dcb.jpg",
+  "static/media/cryptoapp---1.jpg": "/static/media/cryptoapp---1.c4a475e4.jpg",
+  "static/media/cryptoapp---2.jpg": "/static/media/cryptoapp---2.32f61eea.jpg",
   "static/media/delta---1.jpg": "/static/media/delta---1.8e911528.jpg",
   "static/media/delta---2.jpg": "/static/media/delta---2.49e4a273.jpg",
   "static/media/delta---3.jpg": "/static/media/delta---3.b7dcd6b6.jpg",
@@ -103,7 +105,7 @@
   "static/media/dental___8.png": "/static/media/dental___8.080e4806.png",
   "static/media/dentalapp---1.jpg": "/static/media/dentalapp---1.3b14d174.jpg",
   "static/media/dentalapp---2.jpg": "/static/media/dentalapp---2.5c2b380e.jpg",
-  "static/media/dentalapp---3.jpg": "/static/media/dentalapp---3.3b878a47.jpg",
+  "static/media/dentalapp---3.jpg": "/static/media/dentalapp---3.c4f118ce.jpg",
   "static/media/dentalapp---4.jpg": "/static/media/dentalapp---4.8bd2962e.jpg",
   "static/media/features_crypto.jpg": "/static/media/features_crypto.ea904326.jpg",
   "static/media/features_felt.jpg": "/static/media/features_felt.d2480b09.jpg",
@@ -198,6 +200,6 @@
   "static/media/styleguide_lrt.png": "/static/media/styleguide_lrt.d9175158.png",
   "static/media/styleguide_optimizer.jpg": "/static/media/styleguide_optimizer.9525a615.jpg",
   "index.html": "/index.html",
-  "precache-manifest.afe042c8e88243590dc780ec99e10638.js": "/precache-manifest.afe042c8e88243590dc780ec99e10638.js",
+  "precache-manifest.e0175000d91ef9ff27bd8c89d971b437.js": "/precache-manifest.e0175000d91ef9ff27bd8c89d971b437.js",
   "service-worker.js": "/service-worker.js"
 }
