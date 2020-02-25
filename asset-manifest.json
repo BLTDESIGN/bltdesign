@@ -1,7 +1,7 @@
 {
   "main.css": "/static/css/main.df21a590.chunk.css",
-  "main.js": "/static/js/main.e61e17c7.chunk.js",
-  "static/js/1.866596dd.chunk.js": "/static/js/1.866596dd.chunk.js",
+  "main.js": "/static/js/main.a788aa6f.chunk.js",
+  "static/js/1.2fe3010d.chunk.js": "/static/js/1.2fe3010d.chunk.js",
   "runtime~main.js": "/static/js/runtime~main.229c360f.js",
   "static/media/Dan Beltramo Resume 2018.pdf": "/static/media/Dan Beltramo Resume 2018.25345740.pdf",
   "static/media/dan.svg": "/static/media/dan.0742d600.svg",
@@ -117,7 +117,7 @@
   "static/media/felt---1.jpg": "/static/media/felt---1.fdc289a8.jpg",
   "static/media/felt---2.jpg": "/static/media/felt---2.5da7e904.jpg",
   "static/media/felt---3.jpg": "/static/media/felt---3.fbf9befc.jpg",
-  "static/media/felt---4.jpg": "/static/media/felt---4.e271f04e.jpg",
+  "static/media/felt---4.jpg": "/static/media/felt---4.5377af70.jpg",
   "static/media/felt---5.jpg": "/static/media/felt---5.e139d815.jpg",
   "static/media/felt---6.jpg": "/static/media/felt---6.f2fc8b2e.jpg",
   "static/media/felt---7.jpg": "/static/media/felt---7.58dd1083.jpg",
@@ -168,6 +168,9 @@
   "static/media/process.png": "/static/media/process.233f9025.png",
   "static/media/roadmap_optimizer.png": "/static/media/roadmap_optimizer.060006b0.png",
   "static/media/routable---1.jpg": "/static/media/routable---1.0a5f5ffa.jpg",
+  "static/media/shoes---1.jpg": "/static/media/shoes---1.8e7dea60.jpg",
+  "static/media/shoes---2.jpg": "/static/media/shoes---2.7e62cbf0.jpg",
+  "static/media/shoes---3.jpg": "/static/media/shoes---3.262c79f7.jpg",
   "static/media/shop---1.jpg": "/static/media/shop---1.024623a9.jpg",
   "static/media/shop---2.jpg": "/static/media/shop---2.18541fcd.jpg",
   "static/media/shop---3.jpg": "/static/media/shop---3.a10f2774.jpg",
@@ -202,6 +205,6 @@
   "static/media/styleguide_lrt.png": "/static/media/styleguide_lrt.d9175158.png",
   "static/media/styleguide_optimizer.jpg": "/static/media/styleguide_optimizer.9525a615.jpg",
   "index.html": "/index.html",
-  "precache-manifest.cf0b6e492f66f0d3c88fe16fcb42e700.js": "/precache-manifest.cf0b6e492f66f0d3c88fe16fcb42e700.js",
+  "precache-manifest.10d120f818b245b3caa2f086e95802db.js": "/precache-manifest.10d120f818b245b3caa2f086e95802db.js",
   "service-worker.js": "/service-worker.js"
 }
