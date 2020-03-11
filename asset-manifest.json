@@ -1,6 +1,6 @@
 {
   "main.css": "/static/css/main.df21a590.chunk.css",
-  "main.js": "/static/js/main.4e0025a7.chunk.js",
+  "main.js": "/static/js/main.5a8942fd.chunk.js",
   "static/js/1.3ade337a.chunk.js": "/static/js/1.3ade337a.chunk.js",
   "runtime~main.js": "/static/js/runtime~main.229c360f.js",
   "static/media/Dan Beltramo Resume 2018.pdf": "/static/media/Dan Beltramo Resume 2018.25345740.pdf",
@@ -202,7 +202,7 @@
   "static/media/sightc---7.jpg": "/static/media/sightc---7.17445753.jpg",
   "static/media/sightc---7a.jpg": "/static/media/sightc---7a.b699101c.jpg",
   "static/media/sightc---7b.jpg": "/static/media/sightc---7b.7963f2d7.jpg",
-  "static/media/sightcapp---1.jpg": "/static/media/sightcapp---1.468f12ff.jpg",
+  "static/media/sightcapp---1.jpg": "/static/media/sightcapp---1.980da555.jpg",
   "static/media/sightcapp---2.jpg": "/static/media/sightcapp---2.cfc6d05b.jpg",
   "static/media/sightcapp---3.jpg": "/static/media/sightcapp---3.623cfa7f.jpg",
   "static/media/sightcapp---4.jpg": "/static/media/sightcapp---4.e202dad3.jpg",
@@ -219,6 +219,6 @@
   "static/media/styleguide_lrt.png": "/static/media/styleguide_lrt.d9175158.png",
   "static/media/styleguide_optimizer.jpg": "/static/media/styleguide_optimizer.9525a615.jpg",
   "index.html": "/index.html",
-  "precache-manifest.cf323ac00f8996c45a24456919f6b6fd.js": "/precache-manifest.cf323ac00f8996c45a24456919f6b6fd.js",
+  "precache-manifest.0e6c2ed456b7461008568fcaad82735b.js": "/precache-manifest.0e6c2ed456b7461008568fcaad82735b.js",
   "service-worker.js": "/service-worker.js"
 }
