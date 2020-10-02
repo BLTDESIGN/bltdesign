@@ -1,6 +1,6 @@
 {
   "main.css": "/static/css/main.962c3648.chunk.css",
-  "main.js": "/static/js/main.eadfce1d.chunk.js",
+  "main.js": "/static/js/main.c4860d02.chunk.js",
   "static/js/1.fc397635.chunk.js": "/static/js/1.fc397635.chunk.js",
   "runtime~main.js": "/static/js/runtime~main.229c360f.js",
   "static/media/Dan Beltramo Resume 2018.pdf": "/static/media/Dan Beltramo Resume 2018.25345740.pdf",
@@ -182,10 +182,10 @@
   "static/media/process.png": "/static/media/process.233f9025.png",
   "static/media/roadmap_optimizer.png": "/static/media/roadmap_optimizer.060006b0.png",
   "static/media/routable---1.jpg": "/static/media/routable---1.0a5f5ffa.jpg",
-  "static/media/shoes---1.jpg": "/static/media/shoes---1.fc089fd3.jpg",
-  "static/media/shoes---2.jpg": "/static/media/shoes---2.b7b2b47e.jpg",
-  "static/media/shoes---3.jpg": "/static/media/shoes---3.1376701e.jpg",
-  "static/media/shoes---4.jpg": "/static/media/shoes---4.3dc39b4e.jpg",
+  "static/media/shoes---1.jpg": "/static/media/shoes---1.128045e4.jpg",
+  "static/media/shoes---2.jpg": "/static/media/shoes---2.2ce94a03.jpg",
+  "static/media/shoes---3.jpg": "/static/media/shoes---3.3aead281.jpg",
+  "static/media/shoes---4.jpg": "/static/media/shoes---4.7fae4a5c.jpg",
   "static/media/shoes---flow.jpg": "/static/media/shoes---flow.fbd9110f.jpg",
   "static/media/shoes---flow.png": "/static/media/shoes---flow.fd0be1f9.png",
   "static/media/shop---1.jpg": "/static/media/shop---1.7f37c916.jpg",
@@ -223,6 +223,6 @@
   "static/media/styleguide_lrt.png": "/static/media/styleguide_lrt.d9175158.png",
   "static/media/styleguide_optimizer.jpg": "/static/media/styleguide_optimizer.9525a615.jpg",
   "index.html": "/index.html",
-  "precache-manifest.9b747747990d030da9f11c1c739a2b88.js": "/precache-manifest.9b747747990d030da9f11c1c739a2b88.js",
+  "precache-manifest.159ca8af77dff722ae0f6bed29d30fdf.js": "/precache-manifest.159ca8af77dff722ae0f6bed29d30fdf.js",
   "service-worker.js": "/service-worker.js"
 }
