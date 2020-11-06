@@ -1,6 +1,6 @@
 {
   "main.css": "/static/css/main.d2c259b0.chunk.css",
-  "main.js": "/static/js/main.cbbf81d9.chunk.js",
+  "main.js": "/static/js/main.4aefe321.chunk.js",
   "static/js/1.fa40874b.chunk.js": "/static/js/1.fa40874b.chunk.js",
   "runtime~main.js": "/static/js/runtime~main.229c360f.js",
   "static/media/Dan Beltramo Resume 2018.pdf": "/static/media/Dan Beltramo Resume 2018.25345740.pdf",
@@ -136,7 +136,7 @@
   "static/media/dental-studiovo.jpg": "/static/media/dental-studiovo.3962b7bc.jpg",
   "static/media/dental___8.png": "/static/media/dental___8.080e4806.png",
   "static/media/dentalapp---1.jpg": "/static/media/dentalapp---1.cbb21318.jpg",
-  "static/media/dentalapp---2.jpg": "/static/media/dentalapp---2.2675e751.jpg",
+  "static/media/dentalapp---2.jpg": "/static/media/dentalapp---2.3ed4567a.jpg",
   "static/media/dentalapp---3.jpg": "/static/media/dentalapp---3.5e7357df.jpg",
   "static/media/dentalapp---4.jpg": "/static/media/dentalapp---4.5a37812f.jpg",
   "static/media/features_crypto.jpg": "/static/media/features_crypto.ea904326.jpg",
@@ -248,6 +248,6 @@
   "static/media/styleguide_lrt.png": "/static/media/styleguide_lrt.d9175158.png",
   "static/media/styleguide_optimizer.jpg": "/static/media/styleguide_optimizer.9525a615.jpg",
   "index.html": "/index.html",
-  "precache-manifest.142ca68e6e80b5771784468079c6addb.js": "/precache-manifest.142ca68e6e80b5771784468079c6addb.js",
+  "precache-manifest.91f7d591303b1f0a5909ce01a5bbf5d1.js": "/precache-manifest.91f7d591303b1f0a5909ce01a5bbf5d1.js",
   "service-worker.js": "/service-worker.js"
 }
