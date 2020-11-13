@@ -1,6 +1,6 @@
 {
   "main.css": "/static/css/main.ac605f99.chunk.css",
-  "main.js": "/static/js/main.ca6996ce.chunk.js",
+  "main.js": "/static/js/main.92dde518.chunk.js",
   "static/js/1.7d8cf376.chunk.js": "/static/js/1.7d8cf376.chunk.js",
   "runtime~main.js": "/static/js/runtime~main.229c360f.js",
   "static/media/DanBeltramo_Resume_2020.pdf": "/static/media/DanBeltramo_Resume_2020.ae1191d8.pdf",
@@ -208,10 +208,10 @@
   "static/media/process.png": "/static/media/process.233f9025.png",
   "static/media/roadmap_optimizer.png": "/static/media/roadmap_optimizer.060006b0.png",
   "static/media/routable---1.jpg": "/static/media/routable---1.0a5f5ffa.jpg",
-  "static/media/shoes---1.jpg": "/static/media/shoes---1.3f50df2c.jpg",
-  "static/media/shoes---2.jpg": "/static/media/shoes---2.bf3b7266.jpg",
-  "static/media/shoes---3.jpg": "/static/media/shoes---3.1debfd76.jpg",
-  "static/media/shoes---4.jpg": "/static/media/shoes---4.17130fd7.jpg",
+  "static/media/shoes---1.jpg": "/static/media/shoes---1.44523c27.jpg",
+  "static/media/shoes---2.jpg": "/static/media/shoes---2.dcab34c8.jpg",
+  "static/media/shoes---3.jpg": "/static/media/shoes---3.2858963a.jpg",
+  "static/media/shoes---4.jpg": "/static/media/shoes---4.86ba8453.jpg",
   "static/media/shoes---flow.jpg": "/static/media/shoes---flow.fbd9110f.jpg",
   "static/media/shoes---flow.png": "/static/media/shoes---flow.fd0be1f9.png",
   "static/media/shop---1.jpg": "/static/media/shop---1.ca2dd8aa.jpg",
@@ -249,6 +249,6 @@
   "static/media/styleguide_lrt.png": "/static/media/styleguide_lrt.d9175158.png",
   "static/media/styleguide_optimizer.jpg": "/static/media/styleguide_optimizer.9525a615.jpg",
   "index.html": "/index.html",
-  "precache-manifest.608789b67c83098781c4ccbab3e9f2d4.js": "/precache-manifest.608789b67c83098781c4ccbab3e9f2d4.js",
+  "precache-manifest.5d0c4bcc6f05e3666ff4ab6065899568.js": "/precache-manifest.5d0c4bcc6f05e3666ff4ab6065899568.js",
   "service-worker.js": "/service-worker.js"
 }
