@@ -1,6 +1,6 @@
 {
   "main.css": "/static/css/main.816fab5a.chunk.css",
-  "main.js": "/static/js/main.d02cb858.chunk.js",
+  "main.js": "/static/js/main.46de0967.chunk.js",
   "static/js/1.7d8cf376.chunk.js": "/static/js/1.7d8cf376.chunk.js",
   "runtime~main.js": "/static/js/runtime~main.229c360f.js",
   "static/media/DanBeltramo_Resume_2020.pdf": "/static/media/DanBeltramo_Resume_2020.ae1191d8.pdf",
@@ -135,7 +135,7 @@
   "static/media/dental-studiovo.jpg": "/static/media/dental-studiovo.3962b7bc.jpg",
   "static/media/dental___8.png": "/static/media/dental___8.080e4806.png",
   "static/media/dentalapp---1.jpg": "/static/media/dentalapp---1.e51ea32a.jpg",
-  "static/media/dentalapp---2.jpg": "/static/media/dentalapp---2.b369dee3.jpg",
+  "static/media/dentalapp---2.jpg": "/static/media/dentalapp---2.c55c5c9e.jpg",
   "static/media/dentalapp---3.jpg": "/static/media/dentalapp---3.ffb61118.jpg",
   "static/media/dentalapp---4.jpg": "/static/media/dentalapp---4.419a32b8.jpg",
   "static/media/ebay---previous.jpg": "/static/media/ebay---previous.b05a2582.jpg",
@@ -157,9 +157,9 @@
   "static/media/felt---8.jpg": "/static/media/felt---8.074d317a.jpg",
   "static/media/felt---9.jpg": "/static/media/felt---9.92163bbf.jpg",
   "static/media/feltapp---1.jpg": "/static/media/feltapp---1.ee4d990b.jpg",
-  "static/media/feltapp---2.jpg": "/static/media/feltapp---2.b2a1a183.jpg",
-  "static/media/feltapp---3.jpg": "/static/media/feltapp---3.b2814950.jpg",
-  "static/media/feltapp---4.jpg": "/static/media/feltapp---4.22b68bd9.jpg",
+  "static/media/feltapp---2.jpg": "/static/media/feltapp---2.576532ac.jpg",
+  "static/media/feltapp---3.jpg": "/static/media/feltapp---3.f0f431a3.jpg",
+  "static/media/feltapp---4.jpg": "/static/media/feltapp---4.568e567b.jpg",
   "static/media/finplan---1.jpg": "/static/media/finplan---1.fef6fe12.jpg",
   "static/media/finplan---2.jpg": "/static/media/finplan---2.21e8a2e2.jpg",
   "static/media/finplan---3.jpg": "/static/media/finplan---3.8a5a90aa.jpg",
@@ -249,6 +249,6 @@
   "static/media/styleguide_lrt.png": "/static/media/styleguide_lrt.d9175158.png",
   "static/media/styleguide_optimizer.jpg": "/static/media/styleguide_optimizer.9525a615.jpg",
   "index.html": "/index.html",
-  "precache-manifest.b283fcfe1963f6aa9fa6d104742713a0.js": "/precache-manifest.b283fcfe1963f6aa9fa6d104742713a0.js",
+  "precache-manifest.521ed3d5c9f3ff81700607e5cb321140.js": "/precache-manifest.521ed3d5c9f3ff81700607e5cb321140.js",
   "service-worker.js": "/service-worker.js"
 }
