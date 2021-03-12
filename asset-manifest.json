@@ -1,6 +1,6 @@
 {
-  "main.css": "/static/css/main.426c6fd4.chunk.css",
-  "main.js": "/static/js/main.398a2f12.chunk.js",
+  "main.css": "/static/css/main.a4417757.chunk.css",
+  "main.js": "/static/js/main.7a486cfa.chunk.js",
   "static/js/1.c8e6f390.chunk.js": "/static/js/1.c8e6f390.chunk.js",
   "runtime~main.js": "/static/js/runtime~main.229c360f.js",
   "static/media/DanBeltramo_Resume_2020.pdf": "/static/media/DanBeltramo_Resume_2020.ae1191d8.pdf",
@@ -51,7 +51,7 @@
   "static/media/dlstn-home-1.jpg": "/static/media/dlstn-home-1.bdfdc242.jpg",
   "static/media/felt-home-1.png": "/static/media/felt-home-1.ffb6eb89.png",
   "static/media/finplan-home-1.jpg": "/static/media/finplan-home-1.1b4a1709.jpg",
-  "static/media/gatorade-home-1.jpg": "/static/media/gatorade-home-1.a436e191.jpg",
+  "static/media/gatorade-home-1.jpg": "/static/media/gatorade-home-1.e466147f.jpg",
   "static/media/lrt-home-1.jpg": "/static/media/lrt-home-1.d083b0c1.jpg",
   "static/media/lrt-home-1.png": "/static/media/lrt-home-1.108f4b8c.png",
   "static/media/murata-home-1.jpg": "/static/media/murata-home-1.1dc07792.jpg",
@@ -258,6 +258,6 @@
   "static/media/styleguide_lrt.png": "/static/media/styleguide_lrt.d9175158.png",
   "static/media/styleguide_optimizer.jpg": "/static/media/styleguide_optimizer.9525a615.jpg",
   "index.html": "/index.html",
-  "precache-manifest.fa0b635e8b9ef30b6b9c2cf8abcc4375.js": "/precache-manifest.fa0b635e8b9ef30b6b9c2cf8abcc4375.js",
+  "precache-manifest.67892ac1d76bdd49a3a96fbe74a5b36c.js": "/precache-manifest.67892ac1d76bdd49a3a96fbe74a5b36c.js",
   "service-worker.js": "/service-worker.js"
 }
