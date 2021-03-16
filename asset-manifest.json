@@ -1,6 +1,6 @@
 {
-  "main.css": "/static/css/main.0e2db2ed.chunk.css",
-  "main.js": "/static/js/main.4691975d.chunk.js",
+  "main.css": "/static/css/main.d0ed42b5.chunk.css",
+  "main.js": "/static/js/main.a2652d71.chunk.js",
   "static/js/1.c8e6f390.chunk.js": "/static/js/1.c8e6f390.chunk.js",
   "runtime~main.js": "/static/js/runtime~main.229c360f.js",
   "static/media/DanBeltramo_Resume_2020.pdf": "/static/media/DanBeltramo_Resume_2020.ae1191d8.pdf",
@@ -121,8 +121,8 @@
   "static/media/delta---1.jpg": "/static/media/delta---1.844525cb.jpg",
   "static/media/delta---2.jpg": "/static/media/delta---2.829cd5d5.jpg",
   "static/media/delta---3.jpg": "/static/media/delta---3.d2977ef9.jpg",
-  "static/media/dental---1a.jpg": "/static/media/dental---1a.83b6e60e.jpg",
-  "static/media/dental---1b.jpg": "/static/media/dental---1b.9057e0db.jpg",
+  "static/media/dental---1a.jpg": "/static/media/dental---1a.9cf5a0cd.jpg",
+  "static/media/dental---1b.jpg": "/static/media/dental---1b.3446c5b6.jpg",
   "static/media/dental---2a.jpg": "/static/media/dental---2a.26ac0f79.jpg",
   "static/media/dental---2b.jpg": "/static/media/dental---2b.e0c4e138.jpg",
   "static/media/dental---3a.jpg": "/static/media/dental---3a.8132380c.jpg",
@@ -137,7 +137,7 @@
   "static/media/dental---flow5.jpg": "/static/media/dental---flow5.06b2b9b9.jpg",
   "static/media/dental---flow6.jpg": "/static/media/dental---flow6.c0d30d86.jpg",
   "static/media/dental---flow7.jpg": "/static/media/dental---flow7.94f024e7.jpg",
-  "static/media/dental---problem.jpg": "/static/media/dental---problem.da37f741.jpg",
+  "static/media/dental---problem.jpg": "/static/media/dental---problem.a84787dc.jpg",
   "static/media/dental-pattern.jpg": "/static/media/dental-pattern.874cfd02.jpg",
   "static/media/dental-pattern1.jpg": "/static/media/dental-pattern1.3210e02c.jpg",
   "static/media/dental-previous.jpg": "/static/media/dental-previous.91ae4144.jpg",
@@ -258,6 +258,6 @@
   "static/media/styleguide_lrt.png": "/static/media/styleguide_lrt.d9175158.png",
   "static/media/styleguide_optimizer.jpg": "/static/media/styleguide_optimizer.9525a615.jpg",
   "index.html": "/index.html",
-  "precache-manifest.eae73c291ee54f25599d4e61f883a3bf.js": "/precache-manifest.eae73c291ee54f25599d4e61f883a3bf.js",
+  "precache-manifest.31723e32b58ea4861ff63ddea0fc7871.js": "/precache-manifest.31723e32b58ea4861ff63ddea0fc7871.js",
   "service-worker.js": "/service-worker.js"
 }
