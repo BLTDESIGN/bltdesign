@@ -1,6 +1,6 @@
 {
-  "main.css": "/static/css/main.4078fa8b.chunk.css",
-  "main.js": "/static/js/main.7a5b7ae9.chunk.js",
+  "main.css": "/static/css/main.9a5b48bb.chunk.css",
+  "main.js": "/static/js/main.55caee4f.chunk.js",
   "static/js/1.eee8d367.chunk.js": "/static/js/1.eee8d367.chunk.js",
   "runtime~main.js": "/static/js/runtime~main.229c360f.js",
   "static/media/DanBeltramo_Resume_2021.pdf": "/static/media/DanBeltramo_Resume_2021.41f1c8f3.pdf",
@@ -260,6 +260,6 @@
   "static/media/styleguide_lrt.png": "/static/media/styleguide_lrt.d9175158.png",
   "static/media/styleguide_optimizer.jpg": "/static/media/styleguide_optimizer.9525a615.jpg",
   "index.html": "/index.html",
-  "precache-manifest.0472a3c80bb104b23b7ac3e862117536.js": "/precache-manifest.0472a3c80bb104b23b7ac3e862117536.js",
+  "precache-manifest.1eba1780d74a0b8df8614654d8ba8940.js": "/precache-manifest.1eba1780d74a0b8df8614654d8ba8940.js",
   "service-worker.js": "/service-worker.js"
 }
