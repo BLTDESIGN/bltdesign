@@ -1,6 +1,6 @@
 {
-  "main.css": "/static/css/main.d2b9df05.chunk.css",
-  "main.js": "/static/js/main.d5321500.chunk.js",
+  "main.css": "/static/css/main.a91a3629.chunk.css",
+  "main.js": "/static/js/main.65b367ea.chunk.js",
   "static/js/1.eee8d367.chunk.js": "/static/js/1.eee8d367.chunk.js",
   "runtime~main.js": "/static/js/runtime~main.229c360f.js",
   "static/media/DanBeltramo_Resume_2021.pdf": "/static/media/DanBeltramo_Resume_2021.41f1c8f3.pdf",
@@ -158,7 +158,7 @@
   "static/media/features_optimizer.jpg": "/static/media/features_optimizer.a8fbf6e5.jpg",
   "static/media/features_shop.jpg": "/static/media/features_shop.41c32906.jpg",
   "static/media/features_sightc.jpg": "/static/media/features_sightc.d1f26ea4.jpg",
-  "static/media/felt---1.jpg": "/static/media/felt---1.d5f34eec.jpg",
+  "static/media/felt---1.jpg": "/static/media/felt---1.b77dd097.jpg",
   "static/media/felt---2.jpg": "/static/media/felt---2.96788c02.jpg",
   "static/media/felt---3.jpg": "/static/media/felt---3.ab52de6f.jpg",
   "static/media/felt---4.jpg": "/static/media/felt---4.3eb2abed.jpg",
@@ -260,6 +260,6 @@
   "static/media/styleguide_lrt.png": "/static/media/styleguide_lrt.d9175158.png",
   "static/media/styleguide_optimizer.jpg": "/static/media/styleguide_optimizer.9525a615.jpg",
   "index.html": "/index.html",
-  "precache-manifest.1d087ae36e4b887fe57d893a8c291890.js": "/precache-manifest.1d087ae36e4b887fe57d893a8c291890.js",
+  "precache-manifest.13516c6df6da8269a712ee1c51b60b43.js": "/precache-manifest.13516c6df6da8269a712ee1c51b60b43.js",
   "service-worker.js": "/service-worker.js"
 }
