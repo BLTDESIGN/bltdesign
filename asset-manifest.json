@@ -1,6 +1,6 @@
 {
-  "main.css": "/static/css/main.f7b15e78.chunk.css",
-  "main.js": "/static/js/main.f7577bbe.chunk.js",
+  "main.css": "/static/css/main.9e5f13c5.chunk.css",
+  "main.js": "/static/js/main.685176df.chunk.js",
   "static/js/1.eee8d367.chunk.js": "/static/js/1.eee8d367.chunk.js",
   "runtime~main.js": "/static/js/runtime~main.229c360f.js",
   "static/media/DanBeltramo_Resume_2021.pdf": "/static/media/DanBeltramo_Resume_2021.41f1c8f3.pdf",
@@ -220,7 +220,7 @@
   "static/media/roadmap_optimizer.png": "/static/media/roadmap_optimizer.060006b0.png",
   "static/media/routable---1.jpg": "/static/media/routable---1.0a5f5ffa.jpg",
   "static/media/shoes---1.jpg": "/static/media/shoes---1.9524707a.jpg",
-  "static/media/shoes---2.jpg": "/static/media/shoes---2.1521099f.jpg",
+  "static/media/shoes---2.jpg": "/static/media/shoes---2.231c3793.jpg",
   "static/media/shoes---3.jpg": "/static/media/shoes---3.b23a46a6.jpg",
   "static/media/shoes---4.jpg": "/static/media/shoes---4.27209c7c.jpg",
   "static/media/shoes---flow.jpg": "/static/media/shoes---flow.fbd9110f.jpg",
@@ -260,6 +260,6 @@
   "static/media/styleguide_lrt.png": "/static/media/styleguide_lrt.d9175158.png",
   "static/media/styleguide_optimizer.jpg": "/static/media/styleguide_optimizer.9525a615.jpg",
   "index.html": "/index.html",
-  "precache-manifest.8c31f634672a7a8a69c092ad8ab6907f.js": "/precache-manifest.8c31f634672a7a8a69c092ad8ab6907f.js",
+  "precache-manifest.902611009f4279363632adaa21614c6e.js": "/precache-manifest.902611009f4279363632adaa21614c6e.js",
   "service-worker.js": "/service-worker.js"
 }
