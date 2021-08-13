@@ -1,10 +1,10 @@
 {
   "main.css": "/static/css/main.abab5c7d.chunk.css",
-  "main.js": "/static/js/main.dc71e8be.chunk.js",
+  "main.js": "/static/js/main.52c76f22.chunk.js",
   "static/js/1.5579ae9f.chunk.js": "/static/js/1.5579ae9f.chunk.js",
   "runtime~main.js": "/static/js/runtime~main.229c360f.js",
   "static/media/DanBeltramo_Resume_2021.pdf": "/static/media/DanBeltramo_Resume_2021.41f1c8f3.pdf",
-  "static/media/dan.svg": "/static/media/dan.71c2e62c.svg",
+  "static/media/dan.svg": "/static/media/dan.a9f78d9f.svg",
   "static/media/consistency.svg": "/static/media/consistency.30600aa4.svg",
   "static/media/constraint.svg": "/static/media/constraint.729877f3.svg",
   "static/media/discover.svg": "/static/media/discover.14910d73.svg",
@@ -18,7 +18,7 @@
   "static/media/recog.svg": "/static/media/recog.b5ad2da8.svg",
   "static/media/sig.svg": "/static/media/sig.64e6a2b8.svg",
   "static/media/vis-heir.svg": "/static/media/vis-heir.19d56ac7.svg",
-  "static/media/menu.svg": "/static/media/menu.8f509d3a.svg",
+  "static/media/menu.svg": "/static/media/menu.8bfb4a2c.svg",
   "static/media/down.svg": "/static/media/down.f26599ee.svg",
   "static/media/DanBeltramo_Resume_2020.pdf": "/static/media/DanBeltramo_Resume_2020.ae1191d8.pdf",
   "static/media/Group.svg": "/static/media/Group.6f488bba.svg",
@@ -264,6 +264,6 @@
   "static/media/styleguide_lrt.png": "/static/media/styleguide_lrt.d9175158.png",
   "static/media/styleguide_optimizer.jpg": "/static/media/styleguide_optimizer.9525a615.jpg",
   "index.html": "/index.html",
-  "precache-manifest.039cdb90e182273f349d10a3c7bc4516.js": "/precache-manifest.039cdb90e182273f349d10a3c7bc4516.js",
+  "precache-manifest.af1489457b0b1bda687e28d2294f5116.js": "/precache-manifest.af1489457b0b1bda687e28d2294f5116.js",
   "service-worker.js": "/service-worker.js"
 }
