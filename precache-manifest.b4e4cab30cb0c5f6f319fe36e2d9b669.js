@@ -1,27 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "25dd1f2ef4fd672ee953",
-    "url": "/static/css/main.0080c4ad.chunk.css"
+    "revision": "027e6303c15876e6cf9b",
+    "url": "/static/css/main.d1540cb5.chunk.css"
   },
   {
-    "revision": "25dd1f2ef4fd672ee953",
-    "url": "/static/js/main.25dd1f2e.chunk.js"
+    "revision": "027e6303c15876e6cf9b",
+    "url": "/static/js/main.027e6303.chunk.js"
   },
   {
-    "revision": "c8e6f390006d67b17e9f",
-    "url": "/static/js/1.c8e6f390.chunk.js"
+    "revision": "fe38054efbb9bf029c53",
+    "url": "/static/js/1.fe38054e.chunk.js"
   },
   {
     "revision": "229c360febb4351a89df",
     "url": "/static/js/runtime~main.229c360f.js"
   },
   {
-    "revision": "ae1191d8d2cb23f18230017e899dc0b7",
-    "url": "/static/media/DanBeltramo_Resume_2020.ae1191d8.pdf"
-  },
-  {
-    "revision": "853d6a3e6aae3d2eddb627c19b447df3",
-    "url": "/static/media/dan.853d6a3e.svg"
+    "revision": "41f1c8f35ee39140fc3ba6cf4da94e46",
+    "url": "/static/media/DanBeltramo_Resume_2021.41f1c8f3.pdf"
   },
   {
     "revision": "30600aa439d7bf6d95184f1941a90a13",
@@ -76,12 +72,20 @@ self.__precacheManifest = [
     "url": "/static/media/vis-heir.19d56ac7.svg"
   },
   {
-    "revision": "fbe9a5134a848a5c5f742d8b0a56d72d",
-    "url": "/static/media/menu.fbe9a513.svg"
+    "revision": "8bfb4a2c93778599d4449038af5e1a9a",
+    "url": "/static/media/menu.8bfb4a2c.svg"
+  },
+  {
+    "revision": "a9f78d9f9f1dfb953f359c11cc4ced10",
+    "url": "/static/media/dan.a9f78d9f.svg"
   },
   {
     "revision": "f26599ee0f73415af272a18b35b10d6c",
     "url": "/static/media/down.f26599ee.svg"
+  },
+  {
+    "revision": "ae1191d8d2cb23f18230017e899dc0b7",
+    "url": "/static/media/DanBeltramo_Resume_2020.ae1191d8.pdf"
   },
   {
     "revision": "6f488bbac9691e16af0ce2aa8ae1c7bd",
@@ -200,8 +204,8 @@ self.__precacheManifest = [
     "url": "/static/media/dlstn-home-1.bdfdc242.jpg"
   },
   {
-    "revision": "82d50efa0c16b8accea92edff3aa4767",
-    "url": "/static/media/ebay-home-1.82d50efa.jpg"
+    "revision": "3f0d2253f15fcc9a7fbef851dd930a56",
+    "url": "/static/media/ebay-home-1.3f0d2253.jpg"
   },
   {
     "revision": "ffb6eb89a66729f3f1ef7693d5ce3d85",
@@ -212,8 +216,8 @@ self.__precacheManifest = [
     "url": "/static/media/finplan-home-1.1b4a1709.jpg"
   },
   {
-    "revision": "e466147f50a3a5305af63460be309640",
-    "url": "/static/media/gatorade-home-1.e466147f.jpg"
+    "revision": "b9d5f9c8a4c9bf647f9de18e70d3c979",
+    "url": "/static/media/gatorade-home-1.b9d5f9c8.jpg"
   },
   {
     "revision": "d083b0c1714720fd203a24b16b052604",
@@ -228,8 +232,8 @@ self.__precacheManifest = [
     "url": "/static/media/murata-home-1.1dc07792.jpg"
   },
   {
-    "revision": "34d00086c3e88f6af89a1bc71728fa15",
-    "url": "/static/media/shoe-home-1.34d00086.jpg"
+    "revision": "ca7e948f07db807d748a8488a337a59b",
+    "url": "/static/media/shoe-home-1.ca7e948f.jpg"
   },
   {
     "revision": "e643072f3e54716ebdc9c5a9ea92c7e1",
@@ -288,8 +292,12 @@ self.__precacheManifest = [
     "url": "/static/media/Desktop-Mockups-(current).4647517d.jpg"
   },
   {
-    "revision": "fc6bcd2d83e7a50ab6cea45db7f42af6",
-    "url": "/static/media/Devices-(current).fc6bcd2d.jpg"
+    "revision": "ec987ee34b59392ba05cfd8393b8dafb",
+    "url": "/static/media/Devices-(current).ec987ee3.jpg"
+  },
+  {
+    "revision": "3181547d1e5f067eaa4e793e1cc86f6f",
+    "url": "/static/media/End of Test.3181547d.jpg"
   },
   {
     "revision": "483bfc1ea86d4cc9579c6131d72144af",
@@ -492,40 +500,48 @@ self.__precacheManifest = [
     "url": "/static/media/delta---3.d2977ef9.jpg"
   },
   {
-    "revision": "83b6e60eb8c6a0abc8a7980f02042631",
-    "url": "/static/media/dental---1a.83b6e60e.jpg"
+    "revision": "30e7018fbd67347d1d8a130d38ba3086",
+    "url": "/static/media/dental---1a.30e7018f.jpg"
   },
   {
-    "revision": "9057e0db6ced6052a289cd329a10ec61",
-    "url": "/static/media/dental---1b.9057e0db.jpg"
+    "revision": "b36f3db54532eec515290f18eba0caf4",
+    "url": "/static/media/dental---1b.b36f3db5.jpg"
   },
   {
-    "revision": "26ac0f79e7ce4d2e4da08a4d1fddf03d",
-    "url": "/static/media/dental---2a.26ac0f79.jpg"
+    "revision": "e0418f939b78faba8a35de6269722c38",
+    "url": "/static/media/dental---2a.e0418f93.jpg"
   },
   {
-    "revision": "e0c4e138db3e510a9ebf6df905e5bae3",
-    "url": "/static/media/dental---2b.e0c4e138.jpg"
+    "revision": "05f9ccd1625ac4c748369950f4273bda",
+    "url": "/static/media/dental---2b.05f9ccd1.jpg"
   },
   {
-    "revision": "8132380cf0529d69229b5a1ff3728311",
-    "url": "/static/media/dental---3a.8132380c.jpg"
+    "revision": "394a0f267307b01061e1466d003a6e69",
+    "url": "/static/media/dental---3a.394a0f26.jpg"
   },
   {
-    "revision": "a305ba65325502dac9c1b4733679644c",
-    "url": "/static/media/dental---3b.a305ba65.jpg"
+    "revision": "ab480fdb3d283bd26d5e50f4cdc3f15e",
+    "url": "/static/media/dental---3b.ab480fdb.jpg"
   },
   {
-    "revision": "bb7fd76272cdad2f15615ac99269fadc",
-    "url": "/static/media/dental---7.bb7fd762.jpg"
+    "revision": "fc532b9936cff64538f231002cccd4fe",
+    "url": "/static/media/dental---4a.fc532b99.jpg"
+  },
+  {
+    "revision": "358a78cb844e7a1c1cd620305fdd47c4",
+    "url": "/static/media/dental---4b.358a78cb.jpg"
+  },
+  {
+    "revision": "88e9f8f359d91084d786bd260c073801",
+    "url": "/static/media/dental---7.88e9f8f3.jpg"
   },
   {
     "revision": "3e623faeae37ba18feccd191bc7e8db1",
     "url": "/static/media/dental---8.3e623fae.jpg"
   },
   {
-    "revision": "9bf532e1297f13b48f792197c87dbd3b",
-    "url": "/static/media/dental---fix.9bf532e1.jpg"
+    "revision": "79c005ecc1dcda12d6a9fee2f4bf4a47",
+    "url": "/static/media/dental---fix.79c005ec.jpg"
   },
   {
     "revision": "d5041ee0edb5bc0357e502370524424a",
@@ -556,8 +572,8 @@ self.__precacheManifest = [
     "url": "/static/media/dental---flow7.94f024e7.jpg"
   },
   {
-    "revision": "da37f741e09399f83fecbc72e653501f",
-    "url": "/static/media/dental---problem.da37f741.jpg"
+    "revision": "85aad384ce4ce714d187cede6343ba3d",
+    "url": "/static/media/dental---problem.85aad384.jpg"
   },
   {
     "revision": "874cfd02d0775c0691ef7e2d60b0b9bf",
@@ -580,20 +596,20 @@ self.__precacheManifest = [
     "url": "/static/media/dental___8.080e4806.png"
   },
   {
-    "revision": "ee2102af20037fe3e3e292f44171d558",
-    "url": "/static/media/dentalapp---1.ee2102af.jpg"
+    "revision": "77c45ceb8e5e00542cdc5f8c9a7d7eb6",
+    "url": "/static/media/dentalapp---1.77c45ceb.jpg"
   },
   {
-    "revision": "adaedda5e6824b6a115d14fed22aedf1",
-    "url": "/static/media/dentalapp---2.adaedda5.jpg"
+    "revision": "8b48c1d6a076e70bde95ab0033191736",
+    "url": "/static/media/dentalapp---2.8b48c1d6.jpg"
   },
   {
-    "revision": "617393da412dd2c7d4e7db8c26dc3f18",
-    "url": "/static/media/dentalapp---3.617393da.jpg"
+    "revision": "938eac6281caf3812ac83c14fe17f63d",
+    "url": "/static/media/dentalapp---3.938eac62.jpg"
   },
   {
-    "revision": "3aab24d16010c363e5fd4a309963de3c",
-    "url": "/static/media/dentalapp---4.3aab24d1.jpg"
+    "revision": "cdea655217007e5d9d7bf63a328b346e",
+    "url": "/static/media/dentalapp---4.cdea6552.jpg"
   },
   {
     "revision": "b05a25826dce1c60e23983249618c31a",
@@ -632,32 +648,32 @@ self.__precacheManifest = [
     "url": "/static/media/features_sightc.d1f26ea4.jpg"
   },
   {
-    "revision": "c59e83526a612f86a93017e856d3827a",
-    "url": "/static/media/felt---1.c59e8352.jpg"
+    "revision": "bbe45958954d5859f14d0905d5d9e7aa",
+    "url": "/static/media/felt---1.bbe45958.jpg"
   },
   {
-    "revision": "72bb30eafde8899af724fd52bfb9a393",
-    "url": "/static/media/felt---2.72bb30ea.jpg"
+    "revision": "0c1fe1ba8a1db0ab4300c538d515ef25",
+    "url": "/static/media/felt---2.0c1fe1ba.jpg"
   },
   {
-    "revision": "615f154f161d22d3d64cbf1ab9b4e873",
-    "url": "/static/media/felt---3.615f154f.jpg"
+    "revision": "33c33600b8c02a768935fcf4eac89fed",
+    "url": "/static/media/felt---3.33c33600.jpg"
   },
   {
-    "revision": "c764a70b4d04db7597b43ec1c1c914a4",
-    "url": "/static/media/felt---4.c764a70b.jpg"
+    "revision": "85c3eefae95cda7da9938e57ca789ef5",
+    "url": "/static/media/felt---4.85c3eefa.jpg"
   },
   {
-    "revision": "99047d9d108d6d553702e4c932b789c7",
-    "url": "/static/media/felt---5.99047d9d.jpg"
+    "revision": "40e29d54d1bdfe8afefc90050cd46601",
+    "url": "/static/media/felt---5.40e29d54.jpg"
   },
   {
-    "revision": "d5babedb898c2315582a7096b1d077d3",
-    "url": "/static/media/felt---6.d5babedb.jpg"
+    "revision": "e54ff8d1db60c99e37db3f1651df11bd",
+    "url": "/static/media/felt---6.e54ff8d1.jpg"
   },
   {
-    "revision": "b408edb7ffa7c38bd3e520a280726af6",
-    "url": "/static/media/felt---7.b408edb7.jpg"
+    "revision": "ada51d62b67c5fa4421cb839638f4811",
+    "url": "/static/media/felt---7.ada51d62.jpg"
   },
   {
     "revision": "074d317aacae5fdf2b3d10094ce4812e",
@@ -668,120 +684,128 @@ self.__precacheManifest = [
     "url": "/static/media/felt---9.92163bbf.jpg"
   },
   {
-    "revision": "dfeefb758e4a644ec23db9d68b382558",
-    "url": "/static/media/feltapp---1.dfeefb75.jpg"
+    "revision": "362382af7bacb2491f6e116fe702da31",
+    "url": "/static/media/feltapp---1.362382af.jpg"
   },
   {
-    "revision": "a8fbcacb7779b144ef6b66cc6e0c3f3c",
-    "url": "/static/media/feltapp---2.a8fbcacb.jpg"
+    "revision": "88a2731aa577557cb7ee049045a3e69c",
+    "url": "/static/media/feltapp---2.88a2731a.jpg"
   },
   {
-    "revision": "b88e9570320ad27627d1e4f2ea96a333",
-    "url": "/static/media/feltapp---3.b88e9570.jpg"
+    "revision": "c4faf2c04f035fe9d65e625a5236f937",
+    "url": "/static/media/feltapp---3.c4faf2c0.jpg"
   },
   {
-    "revision": "32e650b83f62dd2ec379339aa0653c4d",
-    "url": "/static/media/feltapp---4.32e650b8.jpg"
+    "revision": "c73ef7f1ddb53f5810c0d7964a7a98cd",
+    "url": "/static/media/feltapp---4.c73ef7f1.jpg"
   },
   {
-    "revision": "30126e0d062fbc757b99c90031c739d2",
-    "url": "/static/media/finplan---1.30126e0d.jpg"
+    "revision": "2155098f2b0271677234ac5ef643c3d8",
+    "url": "/static/media/finplan---1.2155098f.jpg"
   },
   {
-    "revision": "a1759b9bb39d507b93895b6d5703bde7",
-    "url": "/static/media/finplan---2.a1759b9b.jpg"
+    "revision": "6b596ffdf60fb82a8dd4b9d25e6ea9f9",
+    "url": "/static/media/finplan---2.6b596ffd.jpg"
   },
   {
-    "revision": "ac9c3a2ef3ab4803c7b0af3eb32a9f3a",
-    "url": "/static/media/finplan---3.ac9c3a2e.jpg"
+    "revision": "01c4a791ed1d8c56595a6487688e4b99",
+    "url": "/static/media/finplan---3.01c4a791.jpg"
   },
   {
-    "revision": "82dfb85ae2c4fa0fc5fed97ba4dc55dc",
-    "url": "/static/media/finplan---4.82dfb85a.jpg"
+    "revision": "97080fff0de7f51fe03dad0ecf6c0402",
+    "url": "/static/media/finplan---4.97080fff.jpg"
   },
   {
-    "revision": "cd8957f178c7fbe919c809f19cfa93b3",
-    "url": "/static/media/finplan---7.cd8957f1.jpg"
+    "revision": "f44d913135b12ed92c91cc8c0310a40d",
+    "url": "/static/media/finplan---5.f44d9131.jpg"
   },
   {
-    "revision": "c5119dd428bcd4a67c0842e2f3c76918",
-    "url": "/static/media/finplanapp---0.c5119dd4.jpg"
+    "revision": "8b0a1eceef048256725708b537048402",
+    "url": "/static/media/finplan---7.8b0a1ece.jpg"
   },
   {
-    "revision": "ba2873880d3a1ac0e13067e9239130c2",
-    "url": "/static/media/finplanapp---1.ba287388.jpg"
+    "revision": "89636a721d43d7fb72771c943c9cf64c",
+    "url": "/static/media/finplanapp---0.89636a72.jpg"
   },
   {
-    "revision": "1cfad8d2042ec935f1e5795136f967b2",
-    "url": "/static/media/finplanapp---2.1cfad8d2.jpg"
+    "revision": "93a4966886b06d7aa3636972fe54e64b",
+    "url": "/static/media/finplanapp---1.93a49668.jpg"
   },
   {
-    "revision": "af5577f8b21b2eafa232eaa29c13ac0d",
-    "url": "/static/media/finplanapp---3.af5577f8.jpg"
+    "revision": "318b78bede3cb459048c9334a8e6a53c",
+    "url": "/static/media/finplanapp---2.318b78be.jpg"
   },
   {
-    "revision": "3b7c2cbef69f4564cb251b1ba98a2cba",
-    "url": "/static/media/gatorade---1.3b7c2cbe.jpg"
+    "revision": "3107136456f914eb1e1b689a3703d558",
+    "url": "/static/media/finplanapp---3.31071364.jpg"
   },
   {
-    "revision": "64d6d78d7bec69627d1fc876905fc2d2",
-    "url": "/static/media/gatorade---2.64d6d78d.jpg"
+    "revision": "9d4937f97f57bf5910777b43ae8a98dc",
+    "url": "/static/media/finplanapp---4.9d4937f9.jpg"
   },
   {
-    "revision": "e11e20ef220f7ea5362301359e035888",
-    "url": "/static/media/gatorade---3.e11e20ef.jpg"
+    "revision": "5ae079d196cf32404f0944650c5fe5ea",
+    "url": "/static/media/gatorade---1.5ae079d1.jpg"
   },
   {
-    "revision": "273c1efd3bff95e3728d91e3bd1d3a52",
-    "url": "/static/media/gatorade---4.273c1efd.jpg"
+    "revision": "8a55d142bd28f619582cd7f8e1e1b106",
+    "url": "/static/media/gatorade---2.8a55d142.jpg"
   },
   {
-    "revision": "15c9d3e3e6b0715603915da007c950bf",
-    "url": "/static/media/gatorade---5.15c9d3e3.jpg"
+    "revision": "135d4f2f2597559f71772696ab6aa61c",
+    "url": "/static/media/gatorade---3.135d4f2f.jpg"
   },
   {
-    "revision": "fb8da785b3aaed48ed2fa249d35d5c9b",
-    "url": "/static/media/gatorade---6.fb8da785.jpg"
+    "revision": "e25e726f8489c354675319da30c4843b",
+    "url": "/static/media/gatorade---4.e25e726f.jpg"
   },
   {
-    "revision": "6b31b4abe1522746af25b1984afb105d",
-    "url": "/static/media/gatorade---7.6b31b4ab.jpg"
+    "revision": "094dfee46d7ac99ec764b550a3129ca2",
+    "url": "/static/media/gatorade---5.094dfee4.jpg"
   },
   {
-    "revision": "5082789ea868d5cf7db619907f6a5049",
-    "url": "/static/media/lrt---1a.5082789e.jpg"
+    "revision": "0efe55c75aeca0c289f6e78fbc6adef8",
+    "url": "/static/media/gatorade---6.0efe55c7.jpg"
   },
   {
-    "revision": "560d4b71ed82f5cd3feaac65270682a3",
-    "url": "/static/media/lrt---1b.560d4b71.jpg"
+    "revision": "22781da2b4397ceabe7e5f70dd7a392c",
+    "url": "/static/media/gatorade---7.22781da2.jpg"
   },
   {
-    "revision": "73c3b260783c47d19477a5cf17bda17a",
-    "url": "/static/media/lrt---2a.73c3b260.jpg"
+    "revision": "9672207cedeb6d55298c2ccc80e84a80",
+    "url": "/static/media/lrt---1a.9672207c.jpg"
   },
   {
-    "revision": "5ea5c905e5af98e2eaf42ba4e544a044",
-    "url": "/static/media/lrt---2b.5ea5c905.jpg"
+    "revision": "0d7c5d28f37ce653e7c4afd11e7d3d2a",
+    "url": "/static/media/lrt---1b.0d7c5d28.jpg"
   },
   {
-    "revision": "c50d9fac4435e064c912e74b8ef80d25",
-    "url": "/static/media/lrt---3a.c50d9fac.jpg"
+    "revision": "7e3c985494324a412a89fea9c72245e3",
+    "url": "/static/media/lrt---2a.7e3c9854.jpg"
   },
   {
-    "revision": "d9f0c81cf6fb8c4fc55b7404d3f56750",
-    "url": "/static/media/lrt---3b.d9f0c81c.jpg"
+    "revision": "48bf79c8f73b2493499ec83e80b284cb",
+    "url": "/static/media/lrt---2b.48bf79c8.jpg"
   },
   {
-    "revision": "714c01526df4e10052cdf98c49d0c069",
-    "url": "/static/media/lrt---4a.714c0152.jpg"
+    "revision": "721706c6a7f48bd9bab0e1e626b5d258",
+    "url": "/static/media/lrt---3a.721706c6.jpg"
   },
   {
-    "revision": "3e74d17c1cb952f06b44a81408c0464a",
-    "url": "/static/media/lrt---4b.3e74d17c.jpg"
+    "revision": "413b869220e356915319d04b96ed3f0e",
+    "url": "/static/media/lrt---3b.413b8692.jpg"
   },
   {
-    "revision": "8d7ffbc91efba6830c73d40423f7c56a",
-    "url": "/static/media/lrt---7.8d7ffbc9.jpg"
+    "revision": "ace79da1f76537a84dbd1e1f2702be2c",
+    "url": "/static/media/lrt---4a.ace79da1.jpg"
+  },
+  {
+    "revision": "711e1e4186e2a9e17cd20ef56235f150",
+    "url": "/static/media/lrt---4b.711e1e41.jpg"
+  },
+  {
+    "revision": "d086658fba9a2d3672a0e746e0952d5a",
+    "url": "/static/media/lrt---7.d086658f.jpg"
   },
   {
     "revision": "17439338882381c91de1343eeb6eea04",
@@ -792,20 +816,20 @@ self.__precacheManifest = [
     "url": "/static/media/lrt-home-1.108f4b8c.png"
   },
   {
-    "revision": "557daf31f7bf35a23a68b6d86e59b896",
-    "url": "/static/media/lrtapp---1.557daf31.jpg"
+    "revision": "02a574c1151af74811b30bf7bb9b1671",
+    "url": "/static/media/lrtapp---1.02a574c1.jpg"
   },
   {
-    "revision": "4267dc71386adfa54f57df914c32a972",
-    "url": "/static/media/lrtapp---2.4267dc71.jpg"
+    "revision": "47cebef967a1cafe65ae0886da90abcc",
+    "url": "/static/media/lrtapp---2.47cebef9.jpg"
   },
   {
-    "revision": "0304c656c43f20cc87323cb5f67c66c0",
-    "url": "/static/media/lrtapp---3.0304c656.jpg"
+    "revision": "4b132b85386e2b25b538ef72e86df276",
+    "url": "/static/media/lrtapp---3.4b132b85.jpg"
   },
   {
-    "revision": "e1b024f3cbc4058dd3b29d3382ad54fd",
-    "url": "/static/media/lrtapp---4.e1b024f3.jpg"
+    "revision": "f57a26f061138d5f108d1d8db4372efd",
+    "url": "/static/media/lrtapp---4.f57a26f0.jpg"
   },
   {
     "revision": "68f07a1e7680b4fe749ab082c6a7a79f",
@@ -880,20 +904,20 @@ self.__precacheManifest = [
     "url": "/static/media/routable---1.0a5f5ffa.jpg"
   },
   {
-    "revision": "78504f0d8ab1433c6ca7332b72069b24",
-    "url": "/static/media/shoes---1.78504f0d.jpg"
+    "revision": "dcbf4b497b9811abe12ee94e22386762",
+    "url": "/static/media/shoe---1.dcbf4b49.jpg"
   },
   {
-    "revision": "046f4c9d307d96e164ebe9535fe525cf",
-    "url": "/static/media/shoes---2.046f4c9d.jpg"
+    "revision": "ec40a05a66aa0afea6ec67c9fa24e37d",
+    "url": "/static/media/shoe---2.ec40a05a.jpg"
   },
   {
-    "revision": "63ebf1b93b4ad74480dcc3e5a2b6ee4f",
-    "url": "/static/media/shoes---3.63ebf1b9.jpg"
+    "revision": "9dab6072f047cdc4746a075c971854b0",
+    "url": "/static/media/shoe---3.9dab6072.jpg"
   },
   {
-    "revision": "0a0ed31bedc914184a00e519402f7e99",
-    "url": "/static/media/shoes---4.0a0ed31b.jpg"
+    "revision": "671327c706fb35093fc11400b480ab45",
+    "url": "/static/media/shoe---4.671327c7.jpg"
   },
   {
     "revision": "fbd9110f551d3c5f00c1399676466a14",
@@ -1040,7 +1064,7 @@ self.__precacheManifest = [
     "url": "/static/media/styleguide_optimizer.9525a615.jpg"
   },
   {
-    "revision": "1eb5a5036b35e7654a45657e9449cbc9",
+    "revision": "cd2d0ab05d62df263046753a9ec33acf",
     "url": "/index.html"
   }
 ];
