@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/static/css/main.cf9797b1.chunk.css",
-    "main.js": "/static/js/main.aa7ae730.chunk.js",
+    "main.css": "/static/css/main.e47d367e.chunk.css",
+    "main.js": "/static/js/main.2cd62536.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.832dd6ed.js",
-    "static/js/2.66488233.chunk.js": "/static/js/2.66488233.chunk.js",
+    "static/js/2.41d06752.chunk.js": "/static/js/2.41d06752.chunk.js",
     "index.html": "/index.html",
-    "static/js/2.66488233.chunk.js.LICENSE.txt": "/static/js/2.66488233.chunk.js.LICENSE.txt",
+    "static/js/2.41d06752.chunk.js.LICENSE.txt": "/static/js/2.41d06752.chunk.js.LICENSE.txt",
     "static/media/Crypto - User Research.png": "/static/media/Crypto - User Research.b3acbdc9.png",
     "static/media/DanBeltramo_Resume_2020.pdf": "/static/media/DanBeltramo_Resume_2020.391dfc0c.pdf",
     "static/media/DanBeltramo_Resume_2021.pdf": "/static/media/DanBeltramo_Resume_2021.a2f6436d.pdf",
@@ -269,8 +269,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.832dd6ed.js",
-    "static/js/2.66488233.chunk.js",
-    "static/css/main.cf9797b1.chunk.css",
-    "static/js/main.aa7ae730.chunk.js"
+    "static/js/2.41d06752.chunk.js",
+    "static/css/main.e47d367e.chunk.css",
+    "static/js/main.2cd62536.chunk.js"
   ]
 }
