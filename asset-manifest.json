@@ -1,11 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.ae40cf0e.chunk.css",
-    "main.js": "/static/js/main.244618cf.chunk.js",
+    "main.js": "/static/js/main.47e0da03.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.832dd6ed.js",
     "static/js/2.41d06752.chunk.js": "/static/js/2.41d06752.chunk.js",
     "index.html": "/index.html",
     "static/js/2.41d06752.chunk.js.LICENSE.txt": "/static/js/2.41d06752.chunk.js.LICENSE.txt",
+    "static/media/Bitmap.png": "/static/media/Bitmap.71d17b9a.png",
     "static/media/Crypto - User Research.png": "/static/media/Crypto - User Research.b3acbdc9.png",
     "static/media/DanBeltramo_Resume_2020.pdf": "/static/media/DanBeltramo_Resume_2020.391dfc0c.pdf",
     "static/media/DanBeltramo_Resume_2021.pdf": "/static/media/DanBeltramo_Resume_2021.a2f6436d.pdf",
@@ -131,7 +132,7 @@
     "static/media/features_sightc.jpg": "/static/media/features_sightc.1a46a6d6.jpg",
     "static/media/feedback.svg": "/static/media/feedback.34a6a8f8.svg",
     "static/media/felt---1.jpg": "/static/media/felt---1.fdbae8f9.jpg",
-    "static/media/felt---2.jpg": "/static/media/felt---2.aa8988a4.jpg",
+    "static/media/felt---2.jpg": "/static/media/felt---2.f3e2900f.jpg",
     "static/media/felt---3.jpg": "/static/media/felt---3.bce8979f.jpg",
     "static/media/felt---4.jpg": "/static/media/felt---4.00913eac.jpg",
     "static/media/felt---5.jpg": "/static/media/felt---5.40e22f63.jpg",
@@ -142,7 +143,7 @@
     "static/media/felt-home-1 copy.png": "/static/media/felt-home-1 copy.eb3dc3f3.png",
     "static/media/felt-home-1.png": "/static/media/felt-home-1.51eb237e.png",
     "static/media/feltapp---1.jpg": "/static/media/feltapp---1.c21337fc.jpg",
-    "static/media/feltapp---2.jpg": "/static/media/feltapp---2.eb58b87b.jpg",
+    "static/media/feltapp---2.jpg": "/static/media/feltapp---2.41b0fd06.jpg",
     "static/media/feltapp---3.jpg": "/static/media/feltapp---3.670d2fb3.jpg",
     "static/media/feltapp---4.jpg": "/static/media/feltapp---4.b6bd492d.jpg",
     "static/media/finplan---1.jpg": "/static/media/finplan---1.eabebf9c.jpg",
@@ -271,6 +272,6 @@
     "static/js/runtime-main.832dd6ed.js",
     "static/js/2.41d06752.chunk.js",
     "static/css/main.ae40cf0e.chunk.css",
-    "static/js/main.244618cf.chunk.js"
+    "static/js/main.47e0da03.chunk.js"
   ]
 }
