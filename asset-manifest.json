@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.4ad92e40.chunk.css",
-    "main.js": "/static/js/main.cede5a76.chunk.js",
+    "main.css": "/static/css/main.824905c6.chunk.css",
+    "main.js": "/static/js/main.72575b10.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.832dd6ed.js",
     "static/js/2.d3797938.chunk.js": "/static/js/2.d3797938.chunk.js",
     "index.html": "/index.html",
@@ -44,6 +44,7 @@
     "static/media/bb_8.jpg": "/static/media/bb_8.b3de8532.jpg",
     "static/media/bb_9.jpg": "/static/media/bb_9.2741d1e9.jpg",
     "static/media/carriagehouse-home-1.jpg": "/static/media/carriagehouse-home-1.a41e82c4.jpg",
+    "static/media/casestudy---diagram.jpg": "/static/media/casestudy---diagram.53be0304.jpg",
     "static/media/casestudy---userflow.jpg": "/static/media/casestudy---userflow.7aa329eb.jpg",
     "static/media/casestudyapp---1.jpg": "/static/media/casestudyapp---1.08b5922d.jpg",
     "static/media/casestudyapp---2.jpg": "/static/media/casestudyapp---2.c6e1fb6c.jpg",
@@ -98,6 +99,7 @@
     "static/media/dental---4b.jpg": "/static/media/dental---4b.5c510cd8.jpg",
     "static/media/dental---7.jpg": "/static/media/dental---7.7436a2db.jpg",
     "static/media/dental---8.jpg": "/static/media/dental---8.b2fc0d7e.jpg",
+    "static/media/dental---diagrams.jpg": "/static/media/dental---diagrams.53be0304.jpg",
     "static/media/dental---fix.jpg": "/static/media/dental---fix.f7390b91.jpg",
     "static/media/dental---flow1.jpg": "/static/media/dental---flow1.ce2b60e9.jpg",
     "static/media/dental---flow2.jpg": "/static/media/dental---flow2.6aad21f9.jpg",
@@ -293,7 +295,7 @@
   "entrypoints": [
     "static/js/runtime-main.832dd6ed.js",
     "static/js/2.d3797938.chunk.js",
-    "static/css/main.4ad92e40.chunk.css",
-    "static/js/main.cede5a76.chunk.js"
+    "static/css/main.824905c6.chunk.css",
+    "static/js/main.72575b10.chunk.js"
   ]
 }
