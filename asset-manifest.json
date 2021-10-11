@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/static/css/main.994603a9.chunk.css",
-    "main.js": "/static/js/main.519341e1.chunk.js",
+    "main.css": "/static/css/main.94f3ea44.chunk.css",
+    "main.js": "/static/js/main.ac9c848e.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.832dd6ed.js",
-    "static/js/2.d3797938.chunk.js": "/static/js/2.d3797938.chunk.js",
+    "static/js/2.b196e672.chunk.js": "/static/js/2.b196e672.chunk.js",
     "index.html": "/index.html",
-    "static/js/2.d3797938.chunk.js.LICENSE.txt": "/static/js/2.d3797938.chunk.js.LICENSE.txt",
+    "static/js/2.b196e672.chunk.js.LICENSE.txt": "/static/js/2.b196e672.chunk.js.LICENSE.txt",
     "static/media/Background.jpg": "/static/media/Background.75d07712.jpg",
     "static/media/Bitmap.png": "/static/media/Bitmap.71d17b9a.png",
     "static/media/Crypto - User Research.png": "/static/media/Crypto - User Research.b3acbdc9.png",
@@ -294,8 +294,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.832dd6ed.js",
-    "static/js/2.d3797938.chunk.js",
-    "static/css/main.994603a9.chunk.css",
-    "static/js/main.519341e1.chunk.js"
+    "static/js/2.b196e672.chunk.js",
+    "static/css/main.94f3ea44.chunk.css",
+    "static/js/main.ac9c848e.chunk.js"
   ]
 }
