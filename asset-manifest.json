@@ -1,14 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.88f3848f.chunk.css",
-    "main.js": "/static/js/main.bf38bba7.chunk.js",
+    "main.js": "/static/js/main.23d52163.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.832dd6ed.js",
     "static/js/2.b196e672.chunk.js": "/static/js/2.b196e672.chunk.js",
     "index.html": "/index.html",
     "static/js/2.b196e672.chunk.js.LICENSE.txt": "/static/js/2.b196e672.chunk.js.LICENSE.txt",
     "static/media/DanBeltramo_Resume_2020.pdf": "/static/media/DanBeltramo_Resume_2020.391dfc0c.pdf",
     "static/media/DanBeltramo_Resume_2021.pdf": "/static/media/DanBeltramo_Resume_2021.a2f6436d.pdf",
-    "static/media/End of Test.jpg": "/static/media/End of Test.b985fc69.jpg",
     "static/media/F - Cost Estimate Open - Desktop.jpg": "/static/media/F - Cost Estimate Open - Desktop.12946822.jpg",
     "static/media/Group.svg": "/static/media/Group.c662afd8.svg",
     "static/media/Rectangle 1.svg": "/static/media/Rectangle 1.b6106fba.svg",
@@ -48,9 +47,9 @@
     "static/media/dan-white.svg": "/static/media/dan-white.ae442da1.svg",
     "static/media/dan.0742d600.svg": "/static/media/dan.0742d600.a5f217f0.svg",
     "static/media/dan.svg": "/static/media/dan.42d1d68a.svg",
-    "static/media/dental---1a.jpg": "/static/media/dental---1a.fa72bbc7.jpg",
+    "static/media/dental---1a.jpg": "/static/media/dental---1a.39b019f4.jpg",
     "static/media/dental---1b.jpg": "/static/media/dental---1b.9535738e.jpg",
-    "static/media/dental---2a.jpg": "/static/media/dental---2a.ae6b7745.jpg",
+    "static/media/dental---2a.jpg": "/static/media/dental---2a.2fe20364.jpg",
     "static/media/dental---2b.jpg": "/static/media/dental---2b.88ed2098.jpg",
     "static/media/dental---3a.jpg": "/static/media/dental---3a.243602d7.jpg",
     "static/media/dental---3b.jpg": "/static/media/dental---3b.50392748.jpg",
@@ -58,11 +57,11 @@
     "static/media/dental---3d.jpg": "/static/media/dental---3d.d8d596bd.jpg",
     "static/media/dental---4a.jpg": "/static/media/dental---4a.f02627b0.jpg",
     "static/media/dental---4b.jpg": "/static/media/dental---4b.2ce05cc1.jpg",
+    "static/media/dental---7.jpg": "/static/media/dental---7.db80e503.jpg",
     "static/media/dental---8.jpg": "/static/media/dental---8.b2fc0d7e.jpg",
     "static/media/dental---diagrams.jpg": "/static/media/dental---diagrams.53be0304.jpg",
     "static/media/dental-home-1 copy.jpg": "/static/media/dental-home-1 copy.562221ed.jpg",
     "static/media/dental-home-1.jpg": "/static/media/dental-home-1.ec2a5733.jpg",
-    "static/media/dental___8.png": "/static/media/dental___8.85ff3bf4.png",
     "static/media/dentalapp---1.jpg": "/static/media/dentalapp---1.ae77f6bc.jpg",
     "static/media/dentalapp---2.jpg": "/static/media/dentalapp---2.e769e617.jpg",
     "static/media/dentalapp---3.jpg": "/static/media/dentalapp---3.eb9c0ffe.jpg",
@@ -169,6 +168,6 @@
     "static/js/runtime-main.832dd6ed.js",
     "static/js/2.b196e672.chunk.js",
     "static/css/main.88f3848f.chunk.css",
-    "static/js/main.bf38bba7.chunk.js"
+    "static/js/main.23d52163.chunk.js"
   ]
 }
