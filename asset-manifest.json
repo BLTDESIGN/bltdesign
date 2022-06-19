@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.88f3848f.chunk.css",
-    "main.js": "/static/js/main.eac637bd.chunk.js",
+    "main.js": "/static/js/main.a8256452.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.832dd6ed.js",
     "static/js/2.b196e672.chunk.js": "/static/js/2.b196e672.chunk.js",
     "index.html": "/index.html",
@@ -225,8 +225,8 @@
     "static/media/recog.svg": "/static/media/recog.95e05c08.svg",
     "static/media/roadmap_optimizer.png": "/static/media/roadmap_optimizer.12c80954.png",
     "static/media/routable---1.jpg": "/static/media/routable---1.f73e2392.jpg",
-    "static/media/shoe---1.jpg": "/static/media/shoe---1.157a6ba5.jpg",
-    "static/media/shoe---2.jpg": "/static/media/shoe---2.5d746df3.jpg",
+    "static/media/shoe---1.jpg": "/static/media/shoe---1.8c4c93bf.jpg",
+    "static/media/shoe---2.jpg": "/static/media/shoe---2.6410e154.jpg",
     "static/media/shoe---3.jpg": "/static/media/shoe---3.62c9b482.jpg",
     "static/media/shoe---4.jpg": "/static/media/shoe---4.4621bb84.jpg",
     "static/media/shoe---userflow.png": "/static/media/shoe---userflow.396bdc76.png",
@@ -274,6 +274,6 @@
     "static/js/runtime-main.832dd6ed.js",
     "static/js/2.b196e672.chunk.js",
     "static/css/main.88f3848f.chunk.css",
-    "static/js/main.eac637bd.chunk.js"
+    "static/js/main.a8256452.chunk.js"
   ]
 }
