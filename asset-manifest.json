@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.88f3848f.chunk.css",
-    "main.js": "/static/js/main.d3b091d7.chunk.js",
+    "main.js": "/static/js/main.7f5d7021.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.832dd6ed.js",
     "static/js/2.b196e672.chunk.js": "/static/js/2.b196e672.chunk.js",
     "index.html": "/index.html",
@@ -15,8 +15,8 @@
     "static/media/carriagehouse-home-1.jpg": "/static/media/carriagehouse-home-1.a41e82c4.jpg",
     "static/media/casestudy---diagram.jpg": "/static/media/casestudy---diagram.53be0304.jpg",
     "static/media/casestudy---userflow.jpg": "/static/media/casestudy---userflow.c28b91fa.jpg",
-    "static/media/casestudyapp---1.jpg": "/static/media/casestudyapp---1.4cd0ef14.jpg",
-    "static/media/casestudyapp---2.jpg": "/static/media/casestudyapp---2.ba825e69.jpg",
+    "static/media/casestudyapp---1.jpg": "/static/media/casestudyapp---1.1549fe55.jpg",
+    "static/media/casestudyapp---2.jpg": "/static/media/casestudyapp---2.5ccf2bf9.jpg",
     "static/media/ch---1.jpg": "/static/media/ch---1.9665b675.jpg",
     "static/media/ch---10.jpg": "/static/media/ch---10.80f5509c.jpg",
     "static/media/ch---11.jpg": "/static/media/ch---11.1bd66767.jpg",
@@ -61,10 +61,10 @@
     "static/media/dental---diagrams.jpg": "/static/media/dental---diagrams.53be0304.jpg",
     "static/media/dental-home-1 copy.jpg": "/static/media/dental-home-1 copy.562221ed.jpg",
     "static/media/dental-home-1.jpg": "/static/media/dental-home-1.ec2a5733.jpg",
-    "static/media/dentalapp---1.jpg": "/static/media/dentalapp---1.ae77f6bc.jpg",
-    "static/media/dentalapp---2.jpg": "/static/media/dentalapp---2.e769e617.jpg",
-    "static/media/dentalapp---3.jpg": "/static/media/dentalapp---3.eb9c0ffe.jpg",
-    "static/media/dentalapp---4.jpg": "/static/media/dentalapp---4.f5e8fb09.jpg",
+    "static/media/dentalapp---1.jpg": "/static/media/dentalapp---1.cac1b2d4.jpg",
+    "static/media/dentalapp---2.jpg": "/static/media/dentalapp---2.730153b3.jpg",
+    "static/media/dentalapp---3.jpg": "/static/media/dentalapp---3.b4dfea61.jpg",
+    "static/media/dentalapp---4.jpg": "/static/media/dentalapp---4.13535797.jpg",
     "static/media/discover.svg": "/static/media/discover.09c183f1.svg",
     "static/media/dlstn---10.jpg": "/static/media/dlstn---10.d9034144.jpg",
     "static/media/dlstn---11.jpg": "/static/media/dlstn---11.6a5170c9.jpg",
@@ -80,6 +80,7 @@
     "static/media/dlstn-home-1.jpg": "/static/media/dlstn-home-1.8404f27b.jpg",
     "static/media/down.svg": "/static/media/down.0fc6c3eb.svg",
     "static/media/ebay---previous.jpg": "/static/media/ebay---previous.459d21d6.jpg",
+    "static/media/ebay---updated.jpg": "/static/media/ebay---updated.815ff72b.jpg",
     "static/media/ebay-home-1 copy.jpg": "/static/media/ebay-home-1 copy.e4424633.jpg",
     "static/media/ebay-home-1.jpg": "/static/media/ebay-home-1.e4424633.jpg",
     "static/media/error.svg": "/static/media/error.9823af11.svg",
@@ -143,7 +144,7 @@
     "static/media/roadmap_optimizer.png": "/static/media/roadmap_optimizer.12c80954.png",
     "static/media/shoe---1.jpg": "/static/media/shoe---1.8c4c93bf.jpg",
     "static/media/shoe---2.jpg": "/static/media/shoe---2.6410e154.jpg",
-    "static/media/shoe---3.jpg": "/static/media/shoe---3.62c9b482.jpg",
+    "static/media/shoe---3.jpg": "/static/media/shoe---3.bfdf9475.jpg",
     "static/media/shoe---4.jpg": "/static/media/shoe---4.4621bb84.jpg",
     "static/media/shoe---userflow.png": "/static/media/shoe---userflow.396bdc76.png",
     "static/media/shoe-home-1 copy.png": "/static/media/shoe-home-1 copy.d4bc7c02.png",
@@ -167,6 +168,6 @@
     "static/js/runtime-main.832dd6ed.js",
     "static/js/2.b196e672.chunk.js",
     "static/css/main.88f3848f.chunk.css",
-    "static/js/main.d3b091d7.chunk.js"
+    "static/js/main.7f5d7021.chunk.js"
   ]
 }
