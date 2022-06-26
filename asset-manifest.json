@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.fed895f0.chunk.css",
-    "main.js": "/static/js/main.053624a1.chunk.js",
+    "main.css": "/static/css/main.773c77d5.chunk.css",
+    "main.js": "/static/js/main.9c62cefe.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.832dd6ed.js",
     "static/js/2.b196e672.chunk.js": "/static/js/2.b196e672.chunk.js",
     "index.html": "/index.html",
@@ -11,6 +11,16 @@
     "static/media/Group.svg": "/static/media/Group.c662afd8.svg",
     "static/media/Rectangle 1.svg": "/static/media/Rectangle 1.b6106fba.svg",
     "static/media/Thumbs.db": "/static/media/Thumbs.3ece0003.db",
+    "static/media/Trap-Black.ttf": "/static/media/Trap-Black.118e05d0.ttf",
+    "static/media/Trap-Bold.ttf": "/static/media/Trap-Bold.205f1ada.ttf",
+    "static/media/Trap-ExtraBold.ttf": "/static/media/Trap-ExtraBold.8aaff2a5.ttf",
+    "static/media/Trap-Light.ttf": "/static/media/Trap-Light.add5ec44.ttf",
+    "static/media/Trap-Medium.ttf": "/static/media/Trap-Medium.097137df.ttf",
+    "static/media/Trap-Regular.ttf": "/static/media/Trap-Regular.34371331.ttf",
+    "static/media/Trap-SemiBold.ttf": "/static/media/Trap-SemiBold.ebe905fe.ttf",
+    "static/media/android---1.jpg": "/static/media/android---1.61bba7c6.jpg",
+    "static/media/android---2.png": "/static/media/android---2.1a5591ba.png",
+    "static/media/android---3.png": "/static/media/android---3.2ce67053.png",
     "static/media/bb-home-1.jpg": "/static/media/bb-home-1.83b90369.jpg",
     "static/media/carriagehouse-home-1.jpg": "/static/media/carriagehouse-home-1.a41e82c4.jpg",
     "static/media/casestudy---diagram.jpg": "/static/media/casestudy---diagram.53be0304.jpg",
@@ -167,7 +177,7 @@
   "entrypoints": [
     "static/js/runtime-main.832dd6ed.js",
     "static/js/2.b196e672.chunk.js",
-    "static/css/main.fed895f0.chunk.css",
-    "static/js/main.053624a1.chunk.js"
+    "static/css/main.773c77d5.chunk.css",
+    "static/js/main.9c62cefe.chunk.js"
   ]
 }
