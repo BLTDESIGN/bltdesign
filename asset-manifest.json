@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.8baacc55.chunk.css",
-    "main.js": "/static/js/main.d5da0ec9.chunk.js",
+    "main.js": "/static/js/main.6ded47db.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.832dd6ed.js",
     "static/js/2.b196e672.chunk.js": "/static/js/2.b196e672.chunk.js",
     "index.html": "/index.html",
@@ -23,7 +23,7 @@
     "static/media/android---3.png": "/static/media/android---3.2ce67053.png",
     "static/media/bb-home-1.jpg": "/static/media/bb-home-1.83b90369.jpg",
     "static/media/carriagehouse-home-1.jpg": "/static/media/carriagehouse-home-1.a41e82c4.jpg",
-    "static/media/casestudy---diagram.jpg": "/static/media/casestudy---diagram.53be0304.jpg",
+    "static/media/casestudy---diagram.jpg": "/static/media/casestudy---diagram.2a30f56d.jpg",
     "static/media/casestudy---userflow.jpg": "/static/media/casestudy---userflow.c28b91fa.jpg",
     "static/media/casestudyapp---1.jpg": "/static/media/casestudyapp---1.1549fe55.jpg",
     "static/media/casestudyapp---2.jpg": "/static/media/casestudyapp---2.5ccf2bf9.jpg",
@@ -178,6 +178,6 @@
     "static/js/runtime-main.832dd6ed.js",
     "static/js/2.b196e672.chunk.js",
     "static/css/main.8baacc55.chunk.css",
-    "static/js/main.d5da0ec9.chunk.js"
+    "static/js/main.6ded47db.chunk.js"
   ]
 }
