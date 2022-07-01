@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.8baacc55.chunk.css",
-    "main.js": "/static/js/main.a98488c8.chunk.js",
+    "main.css": "/static/css/main.14d98f27.chunk.css",
+    "main.js": "/static/js/main.679bde60.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.832dd6ed.js",
     "static/js/2.b196e672.chunk.js": "/static/js/2.b196e672.chunk.js",
     "index.html": "/index.html",
@@ -18,6 +18,8 @@
     "static/media/Trap-Medium.ttf": "/static/media/Trap-Medium.097137df.ttf",
     "static/media/Trap-Regular.ttf": "/static/media/Trap-Regular.34371331.ttf",
     "static/media/Trap-SemiBold.ttf": "/static/media/Trap-SemiBold.ebe905fe.ttf",
+    "static/media/WhyteInktrap-Medium.ttf": "/static/media/WhyteInktrap-Medium.f23655ec.ttf",
+    "static/media/WhyteInktrap-Regular.ttf": "/static/media/WhyteInktrap-Regular.4a7b767b.ttf",
     "static/media/android---1.jpg": "/static/media/android---1.61bba7c6.jpg",
     "static/media/android---2.png": "/static/media/android---2.1a5591ba.png",
     "static/media/android---3.png": "/static/media/android---3.2ce67053.png",
@@ -177,7 +179,7 @@
   "entrypoints": [
     "static/js/runtime-main.832dd6ed.js",
     "static/js/2.b196e672.chunk.js",
-    "static/css/main.8baacc55.chunk.css",
-    "static/js/main.a98488c8.chunk.js"
+    "static/css/main.14d98f27.chunk.css",
+    "static/js/main.679bde60.chunk.js"
   ]
 }
