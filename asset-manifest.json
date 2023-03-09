@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.ce597b65.chunk.css",
-    "main.js": "/static/js/main.0cf14107.chunk.js",
+    "main.js": "/static/js/main.7da24583.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.832dd6ed.js",
     "static/js/2.f23dcb4d.chunk.js": "/static/js/2.f23dcb4d.chunk.js",
     "index.html": "/index.html",
@@ -172,10 +172,10 @@
     "static/media/process.svg": "/static/media/process.f9787418.svg",
     "static/media/recog.svg": "/static/media/recog.4da6f273.svg",
     "static/media/roadmap_optimizer.png": "/static/media/roadmap_optimizer.12c80954.png",
-    "static/media/shoe---1.jpg": "/static/media/shoe---1.ab080149.jpg",
-    "static/media/shoe---2.jpg": "/static/media/shoe---2.b94ca35e.jpg",
-    "static/media/shoe---3.jpg": "/static/media/shoe---3.f11507f6.jpg",
-    "static/media/shoe---4.jpg": "/static/media/shoe---4.0f7191f1.jpg",
+    "static/media/shoe---1.jpg": "/static/media/shoe---1.e3be2dc2.jpg",
+    "static/media/shoe---2.jpg": "/static/media/shoe---2.69334b54.jpg",
+    "static/media/shoe---3.jpg": "/static/media/shoe---3.dc92ffe8.jpg",
+    "static/media/shoe---4.jpg": "/static/media/shoe---4.fdd22afb.jpg",
     "static/media/shoe---userflow.png": "/static/media/shoe---userflow.4e6342f9.png",
     "static/media/shoe---userflow.jpg": "/static/media/shoe---userflow.a318e056.jpg",
     "static/media/shoe-home-1 copy.png": "/static/media/shoe-home-1 copy.d4bc7c02.png",
@@ -199,6 +199,6 @@
     "static/js/runtime-main.832dd6ed.js",
     "static/js/2.f23dcb4d.chunk.js",
     "static/css/main.ce597b65.chunk.css",
-    "static/js/main.0cf14107.chunk.js"
+    "static/js/main.7da24583.chunk.js"
   ]
 }
