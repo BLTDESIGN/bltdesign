@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.97acf9d8.chunk.css",
-    "main.js": "/static/js/main.c0c4d0c0.chunk.js",
+    "main.js": "/static/js/main.24cd9cc9.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.832dd6ed.js",
     "static/js/2.f23dcb4d.chunk.js": "/static/js/2.f23dcb4d.chunk.js",
     "index.html": "/index.html",
@@ -144,7 +144,7 @@
     "static/media/gatorade---7.jpg": "/static/media/gatorade---7.d11fd7c3.jpg",
     "static/media/gatorade---userflow.jpg": "/static/media/gatorade---userflow.e9277830.jpg",
     "static/media/gatorade-home-1.jpg": "/static/media/gatorade-home-1.bffd1605.jpg",
-    "static/media/hyperconnect---1.jpg": "/static/media/hyperconnect---1.4415d2e7.jpg",
+    "static/media/hyperconnect---1.jpg": "/static/media/hyperconnect---1.0619ba89.jpg",
     "static/media/hyperconnect---userflow.jpg": "/static/media/hyperconnect---userflow.7ebf56b2.jpg",
     "static/media/lrt---1a.jpg": "/static/media/lrt---1a.b4109664.jpg",
     "static/media/lrt---1b.jpg": "/static/media/lrt---1b.83261f7f.jpg",
@@ -199,6 +199,6 @@
     "static/js/runtime-main.832dd6ed.js",
     "static/js/2.f23dcb4d.chunk.js",
     "static/css/main.97acf9d8.chunk.css",
-    "static/js/main.c0c4d0c0.chunk.js"
+    "static/js/main.24cd9cc9.chunk.js"
   ]
 }
