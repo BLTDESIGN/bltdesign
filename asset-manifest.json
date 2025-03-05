@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.d60b40b1.chunk.css",
-    "main.js": "/static/js/main.aa189aa9.chunk.js",
-    "main.js.map": "/static/js/main.aa189aa9.chunk.js.map",
+    "main.js": "/static/js/main.b65a37d0.chunk.js",
+    "main.js.map": "/static/js/main.b65a37d0.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.e60cbed4.js",
     "runtime-main.js.map": "/static/js/runtime-main.e60cbed4.js.map",
     "static/js/2.1e011027.chunk.js": "/static/js/2.1e011027.chunk.js",
@@ -59,7 +59,7 @@
     "static/media/ANDtaskbar___7.jpg": "/static/media/ANDtaskbar___7.c36ad9ca.jpg",
     "static/media/ANDtaskbar___8.jpg": "/static/media/ANDtaskbar___8.3996ce8d.jpg",
     "static/media/ANDtaskbar___9.jpg": "/static/media/ANDtaskbar___9.4b577f62.jpg",
-    "static/media/DanBeltramo_Resume_2025.pdf": "/static/media/DanBeltramo_Resume_2025.99f4d736.pdf",
+    "static/media/DanBeltramo_Resume_2025.pdf": "/static/media/DanBeltramo_Resume_2025.5ebade0a.pdf",
     "static/media/F - Cost Estimate Open - Desktop.jpg": "/static/media/F - Cost Estimate Open - Desktop.12946822.jpg",
     "static/media/Group 1.png": "/static/media/Group 1.1c45dccd.png",
     "static/media/Handheld Portrait - 4x5 Smartspace.jpg": "/static/media/Handheld Portrait - 4x5 Smartspace.9ec5831e.jpg",
@@ -189,6 +189,6 @@
     "static/js/runtime-main.e60cbed4.js",
     "static/js/2.1e011027.chunk.js",
     "static/css/main.d60b40b1.chunk.css",
-    "static/js/main.aa189aa9.chunk.js"
+    "static/js/main.b65a37d0.chunk.js"
   ]
 }
