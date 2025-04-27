@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.1ad6b7ce.chunk.css",
-    "main.js": "/static/js/main.c7f33809.chunk.js",
-    "main.js.map": "/static/js/main.c7f33809.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.8fcb8991.js",
-    "runtime-main.js.map": "/static/js/runtime-main.8fcb8991.js.map",
-    "static/js/2.1e011027.chunk.js": "/static/js/2.1e011027.chunk.js",
-    "static/js/2.1e011027.chunk.js.map": "/static/js/2.1e011027.chunk.js.map",
+    "main.css": "/static/css/main.a80279f0.chunk.css",
+    "main.js": "/static/js/main.fd604989.chunk.js",
+    "main.js.map": "/static/js/main.fd604989.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.2905c41e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.2905c41e.js.map",
+    "static/js/2.414bfed2.chunk.js": "/static/js/2.414bfed2.chunk.js",
+    "static/js/2.414bfed2.chunk.js.map": "/static/js/2.414bfed2.chunk.js.map",
     "static/js/3.c67b9163.chunk.js": "/static/js/3.c67b9163.chunk.js",
     "static/js/3.c67b9163.chunk.js.map": "/static/js/3.c67b9163.chunk.js.map",
-    "static/js/4.e6a86e5c.chunk.js": "/static/js/4.e6a86e5c.chunk.js",
-    "static/js/4.e6a86e5c.chunk.js.map": "/static/js/4.e6a86e5c.chunk.js.map",
+    "static/js/4.61d701c6.chunk.js": "/static/js/4.61d701c6.chunk.js",
+    "static/js/4.61d701c6.chunk.js.map": "/static/js/4.61d701c6.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.1ad6b7ce.chunk.css.map": "/static/css/main.1ad6b7ce.chunk.css.map",
-    "static/js/2.1e011027.chunk.js.LICENSE.txt": "/static/js/2.1e011027.chunk.js.LICENSE.txt",
+    "static/css/main.a80279f0.chunk.css.map": "/static/css/main.a80279f0.chunk.css.map",
+    "static/js/2.414bfed2.chunk.js.LICENSE.txt": "/static/js/2.414bfed2.chunk.js.LICENSE.txt",
     "static/media/ANDcolor___1.jpg": "/static/media/ANDcolor___1.f4885fcd.jpg",
     "static/media/ANDcolor___10.jpg": "/static/media/ANDcolor___10.30bbea8b.jpg",
     "static/media/ANDcolor___11.jpg": "/static/media/ANDcolor___11.0dbb221d.jpg",
@@ -186,9 +186,9 @@
     "static/media/taskbar___9.jpg": "/static/media/taskbar___9.27e0720a.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.8fcb8991.js",
-    "static/js/2.1e011027.chunk.js",
-    "static/css/main.1ad6b7ce.chunk.css",
-    "static/js/main.c7f33809.chunk.js"
+    "static/js/runtime-main.2905c41e.js",
+    "static/js/2.414bfed2.chunk.js",
+    "static/css/main.a80279f0.chunk.css",
+    "static/js/main.fd604989.chunk.js"
   ]
 }
